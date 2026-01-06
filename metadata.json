@@ -1,0 +1,8 @@
+{
+  "name": "TrustNet Intelligence Hub",
+  "description": "A comprehensive presentation platform exploring Responsible AI strategies and the blueprint for corruption and bias detection systems.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
